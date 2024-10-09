@@ -24,9 +24,7 @@
 | **BehavioralBuddy** | An AI-powered interview assistant that helps users prepare for behavioral interviews with real-time feedback.                                        | Next.js, React, AWS EC2, OpenAI API        | [Live Demo](https://behavioralbuddy.top) |
 | **UBRateMyProfessor** | A platform for University at Buffalo students to rate and review their professors.                                                                 | Swift, Firebase, REST API                  | Private   |
 
-### 📊 GitHub Stats:
 
-![Wasif's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasifkhandev&show_icons=true&theme=radical)
 
 ### 🌐 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/wasifkhan04/)
